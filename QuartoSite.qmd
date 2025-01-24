@@ -1,0 +1,73 @@
+---
+title: "Digital and Data Science Services"
+
+date: "`r Sys.Date()`"
+
+css: style_1.css
+
+format: html
+---
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://avatars.githubusercontent.com/u/121182857?s=100&u=ebce23e4e42ba4b4816a8e62594fe0319c4655b7&v=4" alt="A descriptive image" style="width: 100px; height: auto; margin-right: 20px;">
+  <div style="flex: 1;">
+  </div>
+</div>
+
+Welcome to my services page! With over 11 years of experience in the environmental studies sector, I offer a range of digital and data science services tailored to meet the needs of clients in various fields. Below is a summary of the services I provide.
+
+## Services Offered
+
+### 1. Ecology Consultancy
+
+-   **Survey Coordination**: Experienced in leading and coordinating ecological surveys, particularly in UK-based projects.
+-   **Digital Solutions**: Development of tools for:
+    -   Bird Collision Risk Modelling for Wind Farms
+    -   Bat Sound Analysis
+    -   Population Density Mapping
+
+### 2. Project Development and Coordination
+
+-   **Project Management**: Hands-on experience in managing and coordinating projects, including:
+    -   Stakeholder engagement and client satisfaction
+    -   Prioritizing workloads and achieving project goals
+    -   Experience with methodologies such as PMI, PRINCE 2 Agile, and MS Project
+-   **Sustainable Planning**: Consultancy for development and infrastructure projects, focusing on sustainable practices.
+
+### 3. Environmental Sciences Expertise
+
+-   **Research and Monitoring**: Collaborated on various research projects, providing:
+    -   Hypothesis-driven experimental designs
+    -   Multivariate statistical analyses
+    -   Evidence-based assessments for management and policy-making
+-   **Report Writing**: Creation of customer-focused reports and peer-reviewed articles.
+
+### 4. IT and Data Analysis Skills
+
+-   **Data Handling**: Proficient in using Microsoft Office Suite and specialized software (R, PRIMER, PAST).
+-   **Relational Databases**: Experience in data analysis and designing user-facing applications.
+-   **Scripting and Dashboards**: Skilled in R for building analysis pipelines and designing interactive dashboards.
+-   **Web App Development**: Design and development of web applications for data capture and project management using platforms like Microsoft PowerApps and ArcGIS.
+
+### 5. Training and Mentorship
+
+-   **Mentoring**: Experience in mentoring children and adults, focusing on ethics, critical thinking, and high-quality standards.
+-   **Workshops**: Conducting workshops on data science and ecology-related topics.
+
+## Why Choose Me?
+
+-   **Extensive Experience**: Over a decade of experience in ecology and data science.
+-   **Tailored Solutions**: I customize my services to meet the unique needs of each client.
+-   **Innovative Approach**: Committed to bringing innovation into projects through the adoption of new tools and technologies.
+
+## Get in Touch
+
+If you're interested in any of my services or would like to discuss a potential project, please feel free to contact me [cajabrett\@gmail.com](mailto:your-email@example.com).
+
+Ready to take the next step?
+
+```{r, echo=FALSE}
+library(htmltools)
+tags$a(href = "mailto:cajabrett@gmail.com?subject=General%20Enquiry&body=Hi%20Carlos,%0A%0AI%20have%20the%20following%20query:", class = "btn btn-primary", "Get Started")
+
+```
